@@ -7,5 +7,5 @@ Bootstrap
 
 JavaScript
 
-openweathermap.org API
+https://openweathermap.org API
 
